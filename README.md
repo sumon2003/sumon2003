@@ -3,7 +3,7 @@
 # Hi there, I'm Md Sumon Hossain Khan 👋
 ### Full Stack Web Developer | Passionate Student
 
-<img src="banner.png" alt="Banner" width="100%">
+<img src="banner1.png" alt="Banner" width="100%">
 
 ---
 
