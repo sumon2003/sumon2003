@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # প্রতি ২৪ ঘণ্টা পর পর অটোমেটিক আপডেট হবে
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # ম্যানুয়ালি রান করার অপশন
   workflow_dispatch:
-  
-  # মেইন ব্রাঞ্চে কোনো পুশ করলে আপডেট হবে
   push:
     branches:
     - main
@@ -19,18 +14,15 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # কন্ট্রিবিউশন গ্রাফ থেকে সাপ জেনারেট করা
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: sumon2003
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#e0af68&color_dots=#161b22,#423107,#6e510a,#9a710e,#c69112,#f2b117
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # জেনারেট হওয়া ফাইলটি 'output' নামক নতুন ব্রাঞ্চে পুশ করা
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
