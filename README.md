@@ -35,11 +35,19 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumon2003&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumon2003&show_icons=true&theme=tokyonight&hide_border=true&title_color=e0af68&icon_color=e0af68&text_color=9ece6a" />
 <br><br>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon2003&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon2003&layout=compact&theme=tokyonight&hide_border=true&title_color=e0af68&text_color=9ece6a" />
 <br><br>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon2003&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon2003&theme=tokyonight&hide_border=true&stroke=e0af68&fire=e0af68&ring=e0af68" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumon2003&theme=tokyonight&color=e0af68&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -53,7 +61,7 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumon2003&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=sumon2003&label=Profile%20Views&color=e0af68&style=flat-square"/>
 </p>
 
 </div>
