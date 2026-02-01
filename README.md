@@ -21,20 +21,9 @@
 
 ### 🛠 My Professional Tech Stack
 
-#### 🌐 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,tailwind" />
-</p>
-
-#### 🖥 Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,python" />
-</p>
-
-#### 🔧 Tools & Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+| 🌐 Frontend | 🖥 Backend & DB | 🔧 Tools & Others |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,python" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /> |
 
 ---
 
