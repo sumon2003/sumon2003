@@ -23,24 +23,28 @@
 ## 🛠 Professional Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,tailwind,nodejs,express,mongodb,mysql,php,python,git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,tailwind"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,python"/>
+<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 </p>
 
 ---
 
-## 📊 GitHub Analysis
+## 📊 GitHub Analytics
 
 <p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumon2003&show_icons=true&theme=tokyonight&hide_border=true&title_color=e0af68&icon_color=e0af68&text_color=9ece6a" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumon2003&show_icons=true&theme=tokyonight&hide_border=true" />
 <br><br>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon2003&layout=compact&theme=tokyonight&hide_border=true&title_color=e0af68&text_color=9ece6a" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon2003&layout=compact&theme=tokyonight&hide_border=true" />
 <br><br>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sumon2003&theme=tokyonight&hide_border=true&stroke=e0af68&fire=e0af68&ring=e0af68" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon2003&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Golden Edition)
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/sumon2003/sumon2003/output/github-contribution-grid-snake.svg" alt="snake"/>
@@ -49,7 +53,7 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumon2003&label=Profile%20Views&color=e0af68&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=sumon2003&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 </div>
