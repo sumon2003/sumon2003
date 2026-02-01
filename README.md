@@ -33,13 +33,11 @@
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumon2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=e0af68&icon_color=e0af68&text_color=9ece6a" />
-  <br><br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon2003&layout=compact&theme=tokyonight&hide_border=true&title_color=e0af68&text_color=9ece6a" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon2003&theme=tokyonight&hide_border=true&stroke=e0af68&fire=e0af68&ring=e0af68" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=sumon2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=e0af68&icon_color=e0af68&text_color=9ece6a" alt="GitHub Stats" />
+<br><br>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumon2003&layout=compact&theme=tokyonight&hide_border=true&title_color=e0af68&text_color=9ece6a" alt="Top Languages" />
+<br><br>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumon2003&theme=tokyonight&hide_border=true&stroke=e0af68&fire=e0af68&ring=e0af68" alt="GitHub Streak" />
 </p>
 
 ---
